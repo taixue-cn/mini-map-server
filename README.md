@@ -1,3 +1,5 @@
+> Active development has moved to [taixue-cn/mini-map](https://github.com/taixue-cn/mini-map). The server and client are now Kotlin Gradle modules in one repository. This repository retains the original Java alpha history and releases.
+
 # MiniMap Server
 
 Paper plugin for sending pre-rendered surface maps to [MiniMap Client](https://github.com/taixue-cn/mini-map-client) through the Minecraft connection. Public implementation; private object storage belongs behind the provider interface.
